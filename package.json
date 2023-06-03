@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "three": "^0.152.2",
+    "dat.gui": "^0.7.9"
+  },
+  "devDependencies": {
+    "vite": "^4.3.6",
+    "dat.gui": "^0.7.9"
+  }
+}
